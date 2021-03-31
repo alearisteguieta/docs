@@ -1,5 +1,6 @@
-# 去中心化社区应用
+# Aplicaciones comunitarias centradas
 
-cToken使得社区各种应用场景得以落地，通过Nutbox搭建的Donut（基于Polkadot和Steem的cross-chain bridge），社区将拥有激励型社区媒体。社区可将cToken嵌入其社区媒体的使用场景中，比如支付cToken获得社区基金账户点赞，实例见nutbox.io「支付PNUT获点赞 」。
+EL uso del cToken permite que se integren una gran  variedad de aplicaciones de la comunidad, y con Donut (basado en el puente de cadena cruzada de Pollkadot y Steem) construido por Nutbox, así la comunidad podrá participar en  redes sociales motivacionales. Las comunidades pueden integrar cToken en sus escenarios de uso de redes sociales, como el pago cToken obteniendo por el "me gusta" de cuentas de fondos comunitarios, ya que pagando PNUT a nutbox.io también puede obtener "Me gusta".
 
-随着Polkadot网络的完善，Nutbox作为一条parachain，将为社区配置更多DApp模块，满足社区去中心化应用场景的需求。Nutbox通过“cToken + DApp”的方式，帮助社区围绕cToken“搭积木”构建自己的社区DApp功能，驱动社区经济。详细描述见<https://docs.nutbox.io/white_paper/>
+Con la mejora de la red Polkadot, Nutbox, como para-chain, configurará más módulos DApp para que la comunidad satisfaga las necesidades de los escenarios de aplicaciones descentralizados de la comunidad. Nutbox ayuda a las comunidades a construir sus propias capacidades de DApp de la comunidad en torno a los "bloques de construcción" de cToken para impulsar a la economía de la comunidad a través del enfoque "cToken plus DApp". Consulte para obtener una descripción
+<https://docs.nutbox.io/white_paper/>
