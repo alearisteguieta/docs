@@ -1,17 +1,17 @@
-# Introduce
+# Introducción
 
-## Background
+## Antecedentes
 
-PoW共识机制中，矿工“锁定”能源和硬件资产以获得网络奖励。同样的，PoS链的验证者为了获得保护网络安全的奖励（Staking reward），需要锁仓PoS链原生资产（Staking Token）。这涉及到两类资产：Staking reward及Staking Token，形成了独特的Staking Economy。
+Bajo el mecanismo de consenso PoW, los mineros "bloquean" los activos de energía y hardware para generar recompensas en línea. Del mismo modo, el autenticador de la cadena PoS necesita bloquear el activo nativo de la cadena PoS (Token de apuesta) para ser recompensado por proteger la seguridad de la red. Esto implica dos tipos de activos: Staking Reward y Staking Token, que forman la economía del sistema.
 
-围绕着Staking reward，有多达6500+ Staking Provider为Staking Token持有者服务，以帮其便捷、高效地获得更多收益。亦有多家交易所和去中心化质押协议，为流动性受限的Staking Token提供Liquidity。Liquidity Staking Token为DeFi增加了基础资产，Staking reward为DeFi在流动性挖矿之外引入了新的收益模型，这将开启全新的“Staking Economy + DeFi”市场。
+En el Staking Reward, alrededor de 6,500 proveedores de apuesta sirven a los titulares de los tokens para ayudarles a ganar más dinero de manera fácil y eficiente. También hay una serie de intercambios y acuerdos de compromiso descentralizados que proporcionan liquidez al token de almacenamiento que está restringido por liquidez. Liquidity Staking Token añade activos subyacentes a DeFi. El  Staking Reward introduce un nuevo modelo de ingresos para el DeFi más allá de la minería de liquidez, que genera la oportunidad de apertura a  un nuevo mercado "Economía Staking y DeFi".
 
 ## Nutbox
 
-Nutbox让PoS链社区的创始人能够创建标准的Staking Coin offering protocol合约，对参与社区Staking的Staking Token持有者分发社区代币（communityToken，简称cToken），社区则获得对应的Staking reward。这为社区项目的启动提供了新的筹资模型。
+Nutbox permite a los fundadores de la comunidad de la cadena PoS crear contratos de protocolo estándar de oferta de staking coin, distribuir tokens comunitarios a los titulares de fichas de apuesta involucrados en la apuesta de la comunidad, o creación de  cToken, y la comunidad obtiene la recompensa correspondiente de apuesta.
 
-进一步，Nutbox赋予社区创始人以模块化的方式为社区配置 Staking +DeFi、Farming、Governance等功能的能力。使得Liquidity Staking Token持有者可以在其社区参与去中心化交易、去中心化借贷、流动性挖矿，为社区版“Staking Economy+ DeFi”提供了一种创新的模型。
+ Esto proporciona un nuevo modelo de financiación para la puesta en marcha de proyectos comunitarios. Además, Nutbox permite a los fundadores de la comunidad configurar la comunidad de una manera modular con características como Staking y DeFi, Minería, Gobernanza y más. 
 
-Nutbox基于Substrate构建Nutbox blockchain，未来将成为Polkadot上的一条parachain。Nutbox的合约集包括TokenFactory、Staking coin offering、Farming（流动性农场）、DutchAuction（荷兰式拍卖回购）、Governance（治理）、DApp launcher（去中心化应用启动器）等。
+Nutbox construye  y representa a Nutbox blockchain basado en la Tecnología de Sustrato, en un futuro cercano será una para-chain oficial de Polkadot. Nutbox espera ayudar a los fundadores tecnológicos a recaudar dinero de una forma más efectiva, construir productos financieros descentralizados y módulos de aplicaciones comunitarias de una manera más rápida y fácil. Abrir comunidades a través de contratos estándar como,los Token Factory, crear oferta de monedas Staking, desarrollo DeFi, desarrollo de DApp y más
 
  ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/nutbox-2.png)
