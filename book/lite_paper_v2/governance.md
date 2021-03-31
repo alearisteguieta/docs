@@ -1,14 +1,14 @@
-# Governance
+# Governanza
 
-建立Nutbox v1和v2网络DAO的目的是为了支持对应社区的长期发展，其资金来源于进入DAO的Token。
+El DAO de red Nutbox v1 y v2 se estableció para apoyar el desarrollo a largo plazo de las comunidades correspondientes, financiado por Token, que entra en el DAO.
 
-Nutbox v1 DAO使项目最终由其社区管理，贡献者发起提案，在社区媒体上讨论，并被社区成员投票。所有提案需要被社区投票通过才具有约束力。Community DAO让社区拥有奖励一些非标准性贡献的能力。提案和投票流程如下：
+Nutbox v1 DAO permite que el proyecto sea finalmente administrado por su comunidad, con colaboradores iniciando propuestas, discutiéndo en las redes sociales y siendo votado por miembros de la comunidad. Todas las propuestas deben ser votadas por la comunidad para ser vinculantes. La DAO comunitaria ofrece a la comunidad la capacidad de recompensar las contribuciones no estándar. La propuesta y el proceso de votación son los siguientes:
 
-* 社区贡献者提交提案；
-* 社区对提案充分讨论；
-* PNUT POWER持有者投票表决提案；
-* DAO基金自动对通过的提案分发PNUT；
+* Los contribuyentes presentan la propuesta
+* La comunidad debate sobre la propuesta；
+* Los poseedores de PNUT POWER votan la propuesta；
+* El Fondo DAO distribuye automáticamente el PNUT a las propuestas aprobadas；
 
-PNUT POWER可以根据情况进行设定：1）每个质押的 PNUT 等价1 PNUT POWER；2）PNUT-TRX、PNUT-DOT pool或PNUT-tToken pool 中每个 PNUT 等价2 PNUT POWER；
+PNUT POWER puede establecerse de acuerdo con las circunstancias: 1) PNUT equivalente 1 PNUT POWER por compromiso; 2) PNUT-TRX, PNUT-DOT pool o PNUT-tToken pool equivalente 2 PNUT POWER por PNUT.
 
-Nutbox v2网络基于Substrate搭建独立的Governance，实现Nutbox v1的Governance功能。且v2 Governance将通过模块化的方式提供给基于Nutbox的Community，以帮助其实现Community DAO。
+Red Nutbox v2 basada en tecnología de Sustrato para crear una Governanza independiente. La implementación de la función Nutbox v1 Goovernance. Y v2 Governance se pondrá a disposición de la Comunidad basada en Nutbox de manera modular para ayudarle a implementar el DAO comunitario.
