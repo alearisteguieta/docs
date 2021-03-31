@@ -1,7 +1,7 @@
-# 社区版“Staking Economy + DeFi”
+# Participación comunitaria "Economía de Staking y DeFi"
 
-Nutbox通过Staking +DeFi launcher模块，使得tToken、cToken持有者可以在其社区参与去中心化交易、去中心化借贷、流动性挖矿。用户可以在其社区的Dex交易tToken、cToken，在社区的Lending上借贷，以及使用tToken、cToken交易对凭证获得cToken。
+Nutbox permite a los titulares del tToken y cToken participar en el comercio descentralizado, los préstamos descentralizados y la minería líquida en sus comunidades a través de los módulos lanzadores de  DeFi y media. Los usuarios pueden pedir prestado de Dex Trading tToken, cToken en su comunidad, Lending on The Community, y obtener cToken usando vales de par comercial tToken y cToken.
 
-社区版“Staking Economy + DeFi”作为Dex、Decentralised Lending子模块，社区基金将作为受益人获得Dex、Decentralised Lending的奖励，此为cToken的价值提供了支撑。
+Como sub-módulo de préstamos descentralizados de dex, el Fondo Comunitario será recompensado como beneficiario por Dex y Préstamos Descentralizados, que apoya el valor de cToken.
 
-使用Peanut社区cToken交易对凭证获得cToken，实例见<https://nutbox.io>「存PNUT-TRX LP获PNUT 」。
+Utilice la transacción cToken de la comunidad de Peanut para obtener cToken en el vale, vea el ejemplo aquí: <https://nutbox.io>
