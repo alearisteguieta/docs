@@ -1,24 +1,26 @@
-# 两类资产协议
+# Dos tipos de Activos Propuestos
 
-## Liquidity Staking Token Protocol
+## Protocolo del Liquidity Staking Token 
 
-Nutbox Liquidity Staking Token Protocol让PoS链Token持有者可以质押Token，1：1获得Staking Token的流动性凭证tToken（tradeToken，比如质押DOT获得tDOT）.tToken代表Staking Token的所有权，以及对应Staking reward收益权。
+El Protocolo del Token Liquidity Staking de Nutbox permite al Propietario del Token de Cadena PoS realizar Staking Token  1:1 para obtener los derechos del cupón de Liquidity tToken (tradeToken, como el dot de compromiso de obtener tDOT). tToken representa la propiedad del Staking Token y los derechos de ingresos correspondientes de recompensa de media.
 
-tToken的任何持有人亦可随时随地向相应的Nutbox Liquidity Staking Token Protocol发起赎回，Staking Token解锁后会发送到赎回账户。
+Cualquier titular de tToken también puede iniciar canjes al protocolo del token Liquidity Staking de Nutbox. Este es correspondiente en cualquier momento y en cualquier lugar. El Token de Staking se enviará a la cuenta de canje al desbloquear.
 
-详细描述见<https://docs.nutbox.io/white_paper/>,实例见<https://nutbox.io/> SP的流动性凭证 —— TSP。
+Consulte los siguientes enclaces para obtener una descripción más detallada: 
+<https://docs.nutbox.io/white_paper/> <https://nutbox.io/> 
 
-## Staking Coin offering Protocol
+## Protocolo de oferta del Staking Coin
 
-社区创始人可以发布标准的Staking Coin offering Protocol（简称SCO），以Staking的形式分发社区通证（communityToken，简称cToken）。Staking Token持有者只需参与社区质押挖矿，即可获得cToken，社区基金则获得对应Staking reward。
+Los fundadores de la comunidad pueden publicar el Protocolo estándar de oferta del staking Coin (SCO) y distribuir certificados de comunidad en forma de Satking. Los titulares de fichas Staking Coin solo necesitan participar en la minería de retención comunitarias para obtener cToken, y los fondos comunitarios reciben la recompensa de media correspondiente.
 
-SCO延长了社区通证分发周期，以现金流的方式支持社区基金，解决以往ICO的一些经典问题，例如缺乏问责制和流动性，以及代币投放市场初期的不完善价格发现机制。
+SCO ha ampliado el ciclo de distribución de certificación comunitaria para apoyar a los fondos comunitarios de manera de flujo de efectivo, abordando algunos de los problemas clásicos de las ICO anteriores, como la falta de rendición de cuentas y liquidez, y los mecanismos imperfectos de descubrimiento de precios en los primeros días de los Tokens.
 
-SCO支持以下形式分发cToken：
+SCO solo admite la distribución de cToken en los siguientes formularios:
 
-* 存tToken获得cToken，实例<https://nutbox.io/> 存TSP获PNUT」；
-* 代理质押的Token获得cToken，实例<https://nutbox.io/> 代理SP获PNUT」
-* 质押的Token为节点投票获得cToken；
-* 其他诸如，质押DOT为parachain插槽拍卖投票获得cToken；
+* Guardar tToken para obtener cToken <https://nutbox.io/> Intercambio de TSP por PNUT
+* Ejemplo de proposición del cToken <https://nutbox.io/>
+* El token de compromiso vota por el nodo así obtiene cToken;
+* Dot y la subasta de tokens en para-chain para obtener cToken；
 
-详细描述见<https://docs.nutbox.io/white_paper/>，查看 Peanut社区cToken实例<https://nutbox.io/> PNUT」
+Consulte los siguientes enclaces para obtener una descripción más detallada: 
+<https://docs.nutbox.io/white_paper/> <https://nutbox.io/> 
