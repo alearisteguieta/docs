@@ -1,37 +1,37 @@
-# 应用举例
+# Ejemplo de Aplicación
 
 ## SCO
 
-SCO作为一种创新的筹资方式，使得社区可以以众包的形式进行筹款。这种筹资方式与Polkadot的PLO、Uniswap开启的IDO、Sushiswap的MISO、Pancake的IFO具有相似的功能及效果。
+SCO es una forma innovadora de financiación que permite a las comunidades recaudar dinero en aglomeraciones. Este método de financiación tiene funciones y efectos similares a la OLP de Polkadot, el IDO de Uniswap, el MISO de Sushiswap, la IFO del PancakeSwap.
 
-相关实例可参考 Nutbox v1，通过 Nutbox.DAO 为 v2 的开发筹集 PNUT 的过程。
+Puede consultar algunos ejemplos en Nutbox v1,. El proceso de aumento de PNUT para el desarrollo de v2 a través de Nutbox.DAO.
 
-## 社区自有的质押经济系统
+## Sistema de economía de compromiso de propiedad comunitaria
 
-Nubox通过一系列标准协议，使得社区创始人可以通过SCO以Staking的方式向社区筹集资金，并分发社区Token —— cToken。
+Nubox utiliza una serie de protocolos estándar que permiten a los fundadores de la comunidad recaudar dinero de la comunidad a través de SCO de una manera apostante y distribuir el token-cToken de la comunidad.
 
-在此基础之上，Nutbox亦让社区以模块化的方式配置其Staking + DeFi、Farming功能，开启社区自有的质押经济。这种独特的质押经济可以被称为community DeFi（简称cFi）。
+Además de esto, Nutbox también permite a las comunidades configurar sus características de Staking,  DeFi  y Farming de una manera modular para desbloquear la propia economía de compromiso de la comunidad. Esta economía de compromiso única se puede llamar DeFi comunitario (cFi).
 
-## 基于tToken的DeFi
+## DeFi basado en tToken
 
-PoS原生资产通过Liquidity Staking Token Protocol生成tToken，此过程与Maker通过去中心化抵押协议衍生出DAI或Synthetix上合成资产一样。tToken作为Staking Token的影子资产，在其上构建的DeFi，拥有巨大的市场空间。
+Los activos nativos de PoS generan tToken a través de The Liquidity Staking Token Protocol, un proceso similar a cuando un Maker deriva activos sintéticos en DAI o Synthetix a través de un acuerdo hipotecario descentralizado. TToken, como un activo en la sombra de Staking Token, tiene un enorme espacio de mercado en el ecosistema DeFi
 
-然而，基于tToken的DeFi，其核心在于tToken的流动性。诸多Liquidity Staking Token亦面临着流动性困境，而tToken独特的机制使其具备诸多优势。
+Sin embargo, al estar basado en tToken's DeFi, su núcleo reside en la liquidez de tToken. Muchos Liquidity Staking Token también se enfrentan a dilemas de liquidez, y el mecanismo único de tToken le otorga muchas ventajas.
 
-### tToken与Liquidity Staking Token组合
+### tToken y Liquidity Staking en combinación
 
-通过将Staking reward与Staking Token进行剥离，tToken得以保持与Staking Token 1：1的赎回比例。tToken作为Staking Token的稳定期权，使其具备与其他Liquidity Staking Token组合的能力。这一组合能力，使得tToken能充分利用其他Liquidity Staking Token的流动性资金池，增强tToken与原生Token的流动性兑换。
+Al desinvertir Staking Reward y Staking Token, tToken fue capaz de mantener una relación de canje de 1:1 con Staking Token. tToken es una opción estable para la ficha de almacenamiento disponible en combinación con otros tokens Liquidity Staking. Esta combinación permite a tToken aprovechar al máximo otras agrupaciones de liquidez de Liquidity Staking Token y mejorar el intercambio de liquidez entre tToken y token nativo.
 
-### tToken与Token组合
+### Combinación de tToken y Token
 
-传统金融机构支持活期、定期存现金获得利息。Token具备充足的流动性，且拥有积累大量闲置Token的能力。可将10%-30%的闲置Token，通过Staking Coin offering Protocol转换为tToken，获得cToken的奖励。
+Las instituciones financieras tradicionales apoyan los depósitos en efectivo actuales y regulares para ganar intereses. El Token es líquido y tiene la capacidad de acumular grandes cantidades de token inactivo. Puede convertir 10%-30% de su token inactivo a tToken a través del Protocolo de oferta de monedas de Staking y obtener una recompensa cToken.
 
-将Token stake进不同周期的资金池即可获得PNUT奖励，可随时取消stake。存入时间未满期即取消stake，则其奖励留在资金池中，用于分发给存入期满的用户。这样即满足了Token的流动性需求，又能获得cToken的奖励。周期的长短亦是不同的储蓄产品，满足不同风险偏好的投资人。
+Coloque la participación de Token en un fondo diferentes ciclos y así  recibir una recompensa PNUT y cancelar el fee en cualquier momento. Si la participación se cancela antes de que expire el tiempo de depósito, su recompensa permanece en el fondo y se distribuye al usuario cuyo depósito expira. Esto satisface las necesidades de liquidez de Token y lo recompensa con cToken. La duración del ciclo es también un producto de ahorro diferente para inversores con diferentes apetitos de riesgo.
 
-tToken亦可与Token组成借贷对，Token储蓄池中的闲置资金亦可借给有Token需求的用户，获得收益。tToken的拥有者可在获得Staking奖励cToken的同时，只需花费少量手续费拥有流动性Token。
+tToken también puede generar algunos préstamos con Token, y los fondos inactivos en el grupo de ahorros token también se pueden prestar a los usuarios poseedores del Token que necesitan obtener algún beneficio. El propietario de TToken puede obtener una recompensa de Staking con cToken al mismo tiempo. Esto representa una pequeña tarifa para poseer un token líquido.
 
-### cToken促进tToken的流动性
+### cToken promueve la liquidez de tToken
 
-使用Nutbox系列协议的社区，他们共享tToken的流动性，并将tToken嵌入其社区版“Staking Economy + DeFi”模块中。这让tToken拥有更大的社区规模，亦具备扩展更多使用场景的能力，将大大增强tToken的流动性。
+Utilizando el Protocolo de la Serie Nutbox, comparten la movilidad de tToken e incorporan tToken en su versión comunitaria del módulo "Staking Economy and DeFi". Esto le da a tToken un tamaño de comunidad más grande y la capacidad de expandir más escenarios de uso, lo que mejorará en gran medida la movilidad de tToken.
 
-tToken的流动性优势，使其更好地作为DeFi的基础资产与DeFi，拥有相对巨大的应用场景。
+Las ventajas de liquidez de tToken la convierten en una aplicación relativamente grande como activo base de DeFi en DeFi.
