@@ -1,29 +1,33 @@
-# 经济模型
+# Modelo económico
 
-## Peanut经济模型
 
-Peanut（简称PNUT）是Nutbox v1网络的本机实用性Token，其旨在推动Peanut社区的发展，以及Nutbox v2网络的开发及运营。
+## Modelo económico de Peanut
 
-PNUT以类bitcoin的分发方式进行，分发规则如下：
+Peanut (PNUT) es el token de utilidad local de la red Nutbox v1, que tiene como objetivo promover el desarrollo de la comunidad peanut y el desarrollo y operación de la red Nutbox v2.
 
-* 0 - 1000000 block，20 PNUT/block
-* 1000001 - 10000000 block，10 PNUT/block
-* 10000001 - 20000000 block，5 PNUT/block
-* 20000001 - 30000000 block，2.5 PNUT/block
-* 30000001 - ∞ block，1.25 PNUT/block
+PNUT se distribuye de una manera similar a bitcoin. Posee las  siguientes reglas de distribución:
 
-PNUT主要通过 Nutbox Staking Coin offering _ Peanut Protocol分发给Peanut社区贡献者。亦会在社区同意的情况下，尝试通过 Nutbox Farming _ Peanut Protocol 分发 PNUT 给Peanut的流动性提供者以及Stake PNUT的质押者。SCO和Farming分发比例最终将达到80 | 20的平衡，此比例亦由社区控制。
+* 0 - 1000000 block，20 PNUT/blque
+* 1000001 - 10000000 bloque，10 PNUT/bloque
+* 10000001 - 20000000 bloque，5 PNUT/bloque
+* 20000001 - 30000000 bloque，2.5 PNUT/bloque
+* 30000001 - ∞ bloque，1.25 PNUT/bloque
 
-为了支持Nutbox v1和v2网络的发展，在上述分发基数上，每区块生成 10% PNUT进入nutbox.dao。nutbox.dao完全归属于Peanut社区，由PNUT持有者组成的DAO控制。创始期由DAO委员会代表社区决策，以及处理日常事务。详细描述见<https://docs.nutbox.io/white_paper/>
+PNUT se distribuye principalmente a los colaboradores de la comunidad de The Peanut a través de Nutbox Staking Coin Offering y Peanut Protocol. También se intentará distribuir PNUT al generador de liquidez de Peanut y proof of stake de  PNUT a través de Nutbox Farming and Peanut Protocol con el consentimiento de la comunidad.
 
-## Nutbox经济模型
+PNUT se distribuye principalmente a los colaboradores de la comunidad de The Peanut a través de Nutbox Staking Coin Offering y Peanut Protocol. También se intentará distribuir PNUT al generador de liquidez de Peanut y proof of stake de  PNUT a través de Nutbox Farming and Peanut Protocol con el consentimiento de la comunidad. Los ratios de distribución de la OCS y Farming alcanzarán finalmente los 80  - 20a nivel de  balance, que también está controlado por la comunidad.
+ 
+Para admitir el desarrollo de redes Nutbox v1 y v2, se genera un 10% de PNUT por bloque en la base de distribución anterior para entrar en nutbox.dao. Nutbox.dao es totalmente propiedad de la comunidad Peanut y está controlada por el DAO, que está compuesto por titulares de PNUT. El período de fundación era para que el Comité DAO tomé decisiones en nombre de la comunidad y tratar asuntos cotidianos. 
+Consulte para obtener una descripción detallada https://docs.nutbox.io/white_paper/
 
-Walnut（简称WNUT）是Nutbox v2网络的本机实用性Token，其旨在推动Staking coin offering、Liquidity Staking Token等协议，以及Nutbox DApp laucher的发展。
+## Modelo económico de Nutbox
 
-WNUT的初始总量为10亿，代币将在Nutbox Network主网启动后进行分发。WNUT采取半衰期的方式按照区块生产，其分发分为三部分：
+Walnut (WNUT) es el token práctico y casero de la red Nutbox v2, que tiene como objetivo impulsar protocolos como staking Coin Liquidity Offering, Staking Token y Nutbox DApp laucher.
 
-* Yield Farming（70%）；
-* Nutbox.dao Fund（20%）；
-* Nutbox parachain验证者（10%）。
+La cantidad total inicial de WNUT es de 1.000 millones, y los tokens se distribuirán después del lanzamiento de la red principal de Nutbox Network. WNUT se produce en por partes del protocolo, y su distribución se divide en tres partes:
 
-详细描述见<https://docs.nutbox.io/white_paper/>
+* Cultivo de rendimiento(70%)
+* Fondo de Nutbox.dao(20%)
+* Verificador de para-chain Nutbox (10%).（10%）。
+
+Consulte para una descripción detallada <https://docs.nutbox.io/white_paper/>
