@@ -1,7 +1,7 @@
-# 跨链桥
+# Puente de Candena Cruzada
 
-STEEM为Steem区块链资产，如果想交易成其他加密货币，则只能在中心化交易所。跨链桥提供了一种可能，让STEEM通过跨链桥转移到其他区块链，比如Ethereum、Tron、Binance Smart Chain、Polkadot等。
+STEEM es un activo de blockchain Steem que solo se puede operar en un intercambio centralizado si desea operar con otras criptomonedas. Los puentes entre cadenas proporcionan la posibilidad de que STEEM se mueva a través de puentes de cadena a otras cadenas de bloques como Ethereum, Tron, Binance Smart Chain, Polkadot y más.
 
-跨链转移后的资产（称为TSTEEM），可以通过Ethereum上的Uniswap交易成USDT、ETH、WBTC，通过Tron上的JustSwap交易成USDT、TRX，通过Binance Smart Chain上的Pancake交易成USDT、BNB等。
+Los activos transferidos entre cadenas (llamados TSTEEM) se pueden negociar a través de Uniswap en Ethereum en USDT, ETH, WBTC, USDT a través de JustSwap en Tron y Pancake en Binance Smart Chain en USDT, BNB, etc.
 
-Nutbox v1提供了一键将STEEM转移成基于Tron的等值资产tSTEEM（TRC20），可以通过JustSwap交易成USDT、TRX、PNUT等。
+Nutbox v1 proporciona una transferencia con un solo clic de STEEM a TSTEEM (TRC20), que se puede intercambiar en USDT, TRX, PNUT, etc. a través de JustSwap.
