@@ -1,26 +1,26 @@
 # TSP
 
-用户将STEEM转化为SP之后，SP无法交易，更无法作为抵押品进行借贷。SP持有者获得了质押奖励（Staking reward），却散失了对应资产的流动性。tToken就是在这样的市场条件下推出的。
+Después de que el usuario convierte STEEM en SP, el SP se congela y es imposible de volver a transferir sin realizar un power down, este proceso tardará 4 semanas (1 mes) en entregar al usuario nuevamente el STEEM de forma líquida. Los titulares de SP son recompensados con una recompensa de compromiso, pero pierden toda su liquidez al congelar sus activos. TToken se introdujo con la intención de resolver dichos problemas de mercado.
 
-## 质押资产流动性凭证
+## Certificado de liquidez de los activos de delegados
 
-tToken（tradeToken）代表着质押资产（Staking Token）的流动性凭证。比如，TSP代表着流动、可交易的SP。持有TSP既可以获得质押奖励，亦可以将TSP作为抵押品进行借贷，或者为TSP-TRX的交易对提供流动性，获得交易手续费和流动性挖矿奖励。
+tToken representa un certificado de liquidez para los activos de delegación de compromiso. Los TSP, por ejemplo, representan SP capaz de ser negociado. El intercambio de un TSP puede ser recompensado con un Stake, pedir prestado como garantía o proporcionar liquidez para pares comerciales TSP-TRX, así como honorarios de transacción e incentivos de minería de liquidez.
 
-Nutbox v1提供了对应的解决方案，以实现上述场景。通过nutbox.io，STEEM持有者可将1  STEEM转化为1 TSP，亦可随时将TSP 1：1赎回成STEEM。
+Nutbox v1 proporciona una solución correspondiente para el escenario anterior. Con nutbox.io, los titulares de STEEM pueden convertir 1 STEEM en 1 TSP o canjear TSP 1:1 con STEEM en cualquier momento.
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/Liquidity-Staking-Token.jpg)
 
-因TSP代表的是代理的SP，TSP赎回成STEEM，则需要5（5天代理撤回的时间）+28天（SP转化成STEEM需要4周等值转换）。
+Puesto que el TSP representa el SP del delegador. el TSP que se canjea a STEEM  requiere 5 (5 días de tiempo de retiro del proxy) más 28 días (SP conviertido a STEEM toma 4 semanas de conversión equivalente)
 
-## TSP的应用场景
+## El TSP también tiene las siguientes caracteristicas:
 
-TSP大大扩展了SP的场景。持有1 TSP，相当于持有已代理的1 SP。将1 TSP存入对应Nutbox矿池，相当于代理 1SP给到nutbox.mine，亦会获得等量PNUT的奖励。
+el TSP expande en gran medida las posibilidades para el  SP. Mantener 1 TSP equivale a mantener 1 SP de un delegador. El depósito de 1 TSP en el correspondiente pool de minería Nutbox, es equivalente a una delegación de 1SP a nutbox.mine. El usuario también recibirá la misma cantidad de recompensa PNUT.
 
 ![Image text](http://wherein.mobi/wp-content/uploads/2021/03/deposit-sp.jpg)
 
-TSP还有以下场景：
+El TSP también tiene las siguientes caracteristicas:
 
-* 持有1 TSP，相当于持有1 SP，即TSP的持有者可以获得等量的质押奖励；
-* TSP可随时在公开市场上进行交易；
-* TSP持有者可以为TSP-TRX交易对提供流动性，将流动性凭证存入TSP-TRX LP挖矿合约，获得质押奖励、交易手续费奖励以及流动性挖矿奖励；
-* TSP可以在质押借贷平台，借贷USDT或STEEM等资产；
+* El intercambio de 1 TSP equivale a poseer 1 SP, es decir, los titulares de TSP pueden recibir la misma cantidad de recompensa por delegación.
+* Los TSP pueden operar en el mercado abierto en cualquier momento.
+* Los titulares de TSP pueden proporcionar liquidez para pares comerciales TSP-TRX, depositar vales de liquidez en contratos mineros TSP-TRX LP y recibir premios de compromiso, incentivos a las tarifas de transacción y premios mineros de liquidez.
+* Los TSP pueden pedir prestados activos como usdt o STEEM en la plataforma de préstamos de compromiso.
