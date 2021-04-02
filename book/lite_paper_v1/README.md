@@ -1,7 +1,7 @@
-# Introduce
+# Introducción
 
-Nutbox v1是一个基于PoS共识机制（包括DPoS、NPoS等）区块链的社区质押平台。
+Nutbox v1 es una plataforma de compromiso comunitario basada en el mecanismo de consenso PoS (incluyendo DPoS, NPoS, etc.).
 
-Nutbox v1致力于为质押资产持有者（Staking Token）更简单获得质押奖励（Staking reward），帮助用户将流通受限的质押资产进行流通（Liquidity Staking Token），满足PoS链原始资产（Token）的跨链交易需求，以及Token持有者的理财（定存或活期）需求。
+Nutbox v1 se compromete a proporcionar recompensas de Staking para los titulares de Stake para ayudar a los usuarios a distribuir activos de compromiso de flujo restringido para satisfacer las necesidades comerciales entre cadenas de los Activos originales de la cadena PoS (Token) y las necesidades financieras (de depósito fijo o actuales) de los titulares de tokens.
 
-Nutbox v1第一阶段搭建在Tron区块链之上，服务于持有Steem资产的用户，第二阶段将扩展到Binance Smart Chain、Ethereum，最终将基于Polkadot打造，服务所有与Polkadot连接的PoS链资产。
+La primera fase de Nutbox v1 se basa en la cadena de bloques Tron para servir a los usuarios que poseen activos de Steem, y la segunda fase se extenderá a Binance Smart Chain, Ethereum, y eventualmente se basará en Polkadot, sirviendo a todos los activos de la cadena PoS conectados a Pollkadot.
